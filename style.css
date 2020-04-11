@@ -1,0 +1,9 @@
+.portal{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 100px;
+    background: #ccc;
+    padding: 50px 30px;
+    margin: 30px 0;
+}
