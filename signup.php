@@ -15,11 +15,11 @@
             <?php
             $servername = "localhost";
             $username = "root";
-            $password = "root";
+   $password = "";
             $dbname="khan";
 
             // Create connection
-            $conn = new mysqli($servername, $username, $password,$dbname);
+            $conn = new mysqli($servername, $username,$password,$dbname);
 
             // Check connection
             if ($conn->connect_error) {

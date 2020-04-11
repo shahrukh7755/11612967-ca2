@@ -11,6 +11,7 @@
 <body>
 <div class="container">
         <h1>Enter the system</h1>
+        <h6><br>It is necessery to login in your account in order to signup for a course</br></h6>
         <div class="portal">
             <div>
                     <h1>Are you new ? Register</h1>
